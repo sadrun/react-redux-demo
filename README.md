@@ -6,3 +6,6 @@ react-redux入门demo
 1.  git clone https://github.com/sadrun/react-redux-demo.git
 2.  npm install
 3.  npm start
+
+
+注：服务启动之后，可点击标题部分或者列表部分，会模拟数据交互
